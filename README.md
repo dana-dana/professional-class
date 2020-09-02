@@ -64,7 +64,8 @@ professional-class
 ## 打发广告 
 [wz's blog](http://blog.csdn.net/qq_33230935)
 
-wz是这个仓库的创始人之一，将自己非常简陋的课堂笔记传到了这个blog上
+wz是这个仓库的创始人之一，将自己非常简陋的课堂笔记传到了这个blog上。
+有需要微软内推的同学，可以在求职季，将英文简历，姓名，电话，全职或实习以及想去的office（默认苏州O365）发至zhowa[AT]microsoft[DOT]com。
 
 [frostwing98's blog](http://blog.csdn.net/qq_37820590/)
 
@@ -82,6 +83,10 @@ calabash_boy's site:暂时没买到好的域名…………（无限期）借用
 
 calabash_boy是上边frostwing98的基友，以及wz的超级迷弟，饥渴等待wz的脱单饭达一年未果。主攻ACM竞赛及相关竞赛，目前有超过一百篇题目和专题讲解发表在上面的博客上，有需求（包括但不限于题目求解）欢迎私信。另外本人为服务器配置资深踩坑者，如果有服务器配置的问题，也可以戳我。
 
+[YDJSIR's blog](https://www.ydjsir.com.cn/)
+
+只能保证将自己的复习资料全部push到库里面供大家共享的19级萌新YDJSIR。
+
 ## 说明
 部分笔记使用Markdown编写，并使用Mathjax与Mermaid渲染公式与图表。
 建议大家安装相关的chrome插件，安装即可浏览所有的LaTex公式：
@@ -97,4 +102,5 @@ calabash_boy是上边frostwing98的基友，以及wz的超级迷弟，饥渴等�
 
 - Select the repo folder
 
+有一说一，为什么不装个Typora解决所有问题呢？
 谢谢！
